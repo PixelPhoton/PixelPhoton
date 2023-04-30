@@ -4,5 +4,5 @@
 
 ### pronouns: any
 
-### you can contact me via: **_@wat_foxogen:matrix.org_**
+### you can contact me via: **@wat_foxogen:matrix.org**
 <sup>_I think that more people should try matrix_</sup>
