@@ -1,6 +1,6 @@
-### hai :3
+# hai :3
 
-# im protogen programmer who likes C/C++ owo
+### im protogen programmer who likes C/C++ owo
 
 pronouns: any
 
