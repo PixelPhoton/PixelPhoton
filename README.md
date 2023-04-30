@@ -5,4 +5,4 @@
 ### pronouns: any
 
 ### you can contact me via: @wat_foxogen:matrix.org
-I think that more people should try matrix
+<sup>I think that more people should try matrix</sup>
