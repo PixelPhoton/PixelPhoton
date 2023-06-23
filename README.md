@@ -1,8 +1,11 @@
-# hai :3
+# hobby programmer, likes C/C++.
+I like programming as a hobby, particularly using C, and sometimes C++
+I enjoy making things myself, rather than using a library, even though this may not always be practical
+I find it fun to use low level concepts such as manual memory management (`malloc` and `free`)
 
-## im a protogen programmer who likes C/C++ owo
+if you want, you can look at my projects; maybe learn from them, or teach me something :3
 
-### pronouns: any
-
-### you can contact me via: **@wat_foxogen:matrix.org**
-<sup>_I think that more people should try matrix_</sup>
+## additional info:
+any pronouns
+hobbyist
+furry
