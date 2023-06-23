@@ -2,8 +2,7 @@
 I'm a hobby programmer, I particularly enjoy using C, and sometimes C++, and maybe even asm sometimes :3 <br>
 I like to do various things, but mostly find messing with low level concepts to be fun :3 <br>
 <br>
-I'm also a furry, and a femboy uwu <br>
-I like cute things :3 <br>
+I'm also a furry uwu<br>
 <br>
 I may not have much on my profile *yet*, but I am planning on adding more projects soon owo <br>
 
@@ -19,8 +18,5 @@ It's fun to understand how the computer actually works, and what higher level pr
 ## additional info
 If you want, you can look at my projects; maybe learn from them, or teach me something :3 <br>
 <br>
-Pansexual :3 <br>
 You can use any pronouns you want to refer to me :3 <br>
 I'm a furry, and a femboy uwu <br>
-<br>
-taken <3
